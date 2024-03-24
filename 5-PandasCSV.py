@@ -14,6 +14,7 @@ print("\n---- df.loc\n", df.loc[[1, 2, 3, 10, 12],['Cereal Name', 'Manufacturer'
 # https://www.youngwonks.com/blog/top-10-ways-to-filter-pandas-dataframe
 
 '''
-some modifications were performed after fork the original
+1. some modifications were performed after fork the original
+2. plus more update
 '''
 
