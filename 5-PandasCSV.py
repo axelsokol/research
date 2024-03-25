@@ -16,5 +16,6 @@ print("\n---- df.loc\n", df.loc[[1, 2, 3, 10, 12],['Cereal Name', 'Manufacturer'
 '''
 1. some modifications were performed after fork the original
 2. plus more update
+3. another update
 '''
 
